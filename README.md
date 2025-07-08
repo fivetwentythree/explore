@@ -1,4 +1,4 @@
-### **Gemini Concept Explorer: User Manual & Guide**
+## **Gemini Concept Explorer: User Manual & Guide**
 
 #### **1. Overview**
 
