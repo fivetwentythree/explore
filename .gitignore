@@ -10,3 +10,4 @@ __pycache__/
 
 # Ignore macOS-specific system files
 .DS_Store
+
