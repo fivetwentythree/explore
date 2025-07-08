@@ -1,0 +1,12 @@
+# Ignore the virtual environment created by uv
+.venv/
+
+# Ignore sensitive environment variables (CRITICAL for security)
+.env
+
+# Ignore Python bytecode and cache folders
+__pycache__/
+*.pyc
+
+# Ignore macOS-specific system files
+.DS_Store
